@@ -54,7 +54,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujmax&show_icons=true&locale=en&layout=compact" alt="anujmax" /></p>
 
-## Professional Experience
+ <details>
+      <summary><h2> Professional Experience</h2></summary>
 
 ### Atato - Remote, India 
 #### Product Lead
@@ -109,3 +110,6 @@ Built a Groovy/Grails Git alternative for versioning Oracle's internal RDBMS too
 **August 2012 - February 2014**
 
 Aced Wipro's Java/SQL training, integrated a complex authorization system, and built a report generation system for a major Irish bank (Java/Servlets).
+</details>
+
+
