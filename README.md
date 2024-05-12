@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Anuj</h1>
-<h3 align="center">I am senior engineer currently on a break to learn Rust and contribute to decentralized platforms.</h3>
+<h3 align="center">I am a senior engineer currently on a break to learn Rust and contribute to decentralized platforms.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
