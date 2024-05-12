@@ -56,6 +56,8 @@ Here are some ideas to get you started:
 
  <details>
       <summary><h2> Professional Experience</h2></summary>
+<h3> I have 11+ years of experience in building software, leading technical development and 2 years
+experience managing teams across a variety of domains. </h3>
 
 ### Atato - Remote, India 
 #### Product Lead
