@@ -23,12 +23,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
 
-
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
@@ -41,15 +39,20 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
 
-
-</p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujmax&show_icons=true&locale=en&layout=compact" alt="anujmax" /></p>
 
  <details>
       <summary><h2> Professional Experience</h2></summary>
-<h3> I have 11+ years of experience in building software, leading technical development and 2 years
-experience managing teams across a variety of domains. </h3>
+<h3> I have 13 years of experience in building software </h3>
+
+### Concentric AI - Bengaluru, India 
+#### Staff Engineer/Tech Lead
+**June 2024 - Present3**
+
+Concentric AI is a Data Security and Posture management provider.
+
+**Technologies:** Java, Kafka, MongoDb, ElasticSearch, Redis
+
 
 ### Atato - Remote, India 
 #### Product Lead
