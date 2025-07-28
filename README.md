@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Anuj</h1>
-<h3 align="center">I am a senior engineer. I am a seasoned expert in languages like Java and Scala.</h3>
+
+
+<h3 align="center">
+I'm a seasoned Senior Engineer with 13 years of software development experience, specializing in Java and Scala. I have demonstrated expertise across the full technology stack, from frontend development with ReactJS to backend systems using modern technologies like Kafka, MongoDB, and Elasticsearch. My career spans diverse domains including data security at Concentric AI, fintech/crypto at Atato, travel tech at Agoda and MakeMyTrip, and enterprise solutions at Oracle and Wipro.
+My notable achievements include co-founding India's first AR celebration platform, building revenue-generating products at Agoda, and developing high-conversion systems at MakeMyTrip. I combine technical depth with leadership experience, having managed teams and driven product roadmaps. My international experience in Thailand and Malaysia, along with my ability to work across different business contexts—from startups to large enterprises—demonstrates my adaptability and global perspective in software engineering.
+</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
