@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Anuj</h1>
-<h3 align="center">I am a senior engineer. I am a JVM expert, languages like Java and Scala.</h3>
+<h3 align="center">I am a senior engineer. I am a seasoned expert in languages like Java and Scala.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 
