@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">
-I'm a seasoned Senior Engineer with 13 years of software development experience, specializing in Java and Scala. I have demonstrated expertise across the full technology stack, from frontend development with ReactJS to backend systems using modern technologies like Kafka, MongoDB, and Elasticsearch. My career spans diverse domains including data security at Concentric AI, fintech/crypto at Atato, travel tech at Agoda and MakeMyTrip, and enterprise solutions at Oracle and Wipro.
-My notable achievements include co-founding India's first AR celebration platform, building revenue-generating products at Agoda, and developing high-conversion systems at MakeMyTrip. I combine technical depth with leadership experience, having managed teams and driven product roadmaps. My international experience in Thailand and Malaysia, along with my ability to work across different business contexts—from startups to large enterprises—demonstrates my adaptability and global perspective in software engineering.
+I am a seasoned Senior Staff Software Engineer with over 14 years of experience specializing in high-performance distributed systems, massive-scale data engineering, and lakehouse architectures. I possess deep, production-proven expertise in building robust ETL pipelines and data processing layers using Spark, Apache Hudi, Rust, and OpenTelemetry, with a strong focus on optimizing system performance and resource management.
+
+Currently, I lead core architectural initiatives at Concentric AI, where I drive complex data classification and security projects—including engineering low-latency systems designed to categorize and protect massive file volumes within strict compliance windows. My career spans diverse business environments, from fast-paced, high-growth startups to major global tech enterprises, including impactful tenures at companies like Atato, Agoda, MakeMyTrip, Oracle, and Wipro.
+
+A hands-on technical leader, I excel at bridging the gap between high-level product strategy and deep engineering execution. My recent achievements include architecting and leading a unified distributed tracing project across complex upstream systems to establish comprehensive system-wide observability. Known for an adaptable, global perspective forged through international experience, I combine sharp analytical depth with a passion for writing clean, efficient code and scaling resilient data infrastructure.
 </h3>
 
 
@@ -30,7 +33,6 @@ My notable achievements include co-founding India's first AR celebration platfor
 <h3 align="left">Primary Languages:</h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
 </p>
 <h3 align="left">Secondary Languages:</h3>
 <p>
